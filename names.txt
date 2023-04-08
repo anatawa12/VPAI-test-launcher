@@ -1,0 +1,8 @@
+AvatarOptimizer-0.1.x
+AvatarOptimizer-0.2.x
+AvatarOptimizer-0.x.x-beta
+animator-controller-as-a-code-0.2.x
+lilAvatarUtils-1.x.x
+lilToon-1.x.x
+modular-avatar-1.x.x
+radialinventorysystem-4.x.x
